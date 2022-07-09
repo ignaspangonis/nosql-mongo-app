@@ -1,0 +1,6 @@
+node_modules/
+.env*.local
+.env
+junk
+playground.js
+try-out.js
